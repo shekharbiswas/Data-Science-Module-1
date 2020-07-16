@@ -15,8 +15,17 @@ Also, as you book calendly with your mentor, you are supposed to mention the top
 
 In this module, first you will go through the basic concepts of Python programming language. Then, you will understand the concepts of Statistics and try to apply Python programming skills on solving statistical analysis. The module has been designed to kick start a solid background in Python & Statistics.
 
-**Completion Time**
-2 weeks
+**Completion Time**: 2 weeks
+
+
+## Resources
+
+Please get habituated with Stack Overflow platform. 
+Most of your queries will have a solution there.
+
+[![What is StackOverflow](https://img.youtube.com/vi/QwS1r1mc888/0.jpg)](https://www.youtube.com/watch?v=QwS1r1mc888)
+
+
 
 
 
