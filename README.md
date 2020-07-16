@@ -22,8 +22,10 @@ In this module, first you will go through the basic concepts of Python programmi
 
 We would work on **GITHUB** through out the program.
 
-So, what is GITHUB ?
+So, what is GitHub ? 
+
 [![What is GitHub](https://img.youtube.com/vi/w3jLJU7DT5E/0.jpg)](https://www.youtube.com/watch?v=w3jLJU7DT5E)
+
 
 **StackOverflow**
 
@@ -33,6 +35,7 @@ Most of your queries will have a solution there.
 [![What is StackOverflow](https://img.youtube.com/vi/QwS1r1mc888/0.jpg)](https://www.youtube.com/watch?v=QwS1r1mc888)
 
 
+**These are introductory videos to help you start, however, you will be having more detailed lessons on these topics.
 
 
 
