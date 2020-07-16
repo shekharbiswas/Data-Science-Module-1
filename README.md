@@ -35,7 +35,7 @@ Most of your queries will have a solution there.
 [![What is StackOverflow](https://img.youtube.com/vi/QwS1r1mc888/0.jpg)](https://www.youtube.com/watch?v=QwS1r1mc888)
 
 
-**These are introductory videos to help you start, however, you will be having more detailed lessons on these topics.
+**These are introductory videos to help you start, however, you will be having more detailed lessons on these topics later.**
 
 
 
