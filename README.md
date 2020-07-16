@@ -11,7 +11,9 @@ The key lies in the fact that you have to spend time on getting habituated with 
 
 Also, as you book calendly with your mentor, you are supposed to mention the topic of discussion in a detailed manner. Many time it has been found, once you know your problem, you know your solution too. At the same time, your mentor will ask you what are the things that you have tried before asking for help. Therefore, it is advised to keep all the log files (screenshots of error message etc.) ready when you book an appointment.
 
+## Module Overview
 
+In this module, first you will go through the basic concepts of Python programming language. Then, you will understand the concepts of Statistics and try to apply Python programming skills on solving statistical analysis. The module has been designed with a completion time of 2 weeks.
 
 
 
