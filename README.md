@@ -20,6 +20,13 @@ In this module, first you will go through the basic concepts of Python programmi
 
 ## Resources
 
+We would work on **GITHUB** through out the program.
+
+So, what is GITHUB ?
+[![What is GitHub](https://img.youtube.com/vi/w3jLJU7DT5E/0.jpg)](https://www.youtube.com/watch?v=w3jLJU7DT5E)
+
+**StackOverflow**
+
 Please get habituated with Stack Overflow platform. 
 Most of your queries will have a solution there.
 
