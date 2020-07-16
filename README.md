@@ -29,8 +29,10 @@ So, what is GitHub ?
 
 **StackOverflow**
 
-Please get habituated with Stack Overflow platform. 
-Most of your queries will have a solution there.
+StackOverflow is a platform where you will find solutions to your queries which you would have in your day to day project work. 
+
+It is of utmost necessity to get habituated with Stack Overflow platform and use it on a daily basis.
+
 
 [![What is StackOverflow](https://img.youtube.com/vi/QwS1r1mc888/0.jpg)](https://www.youtube.com/watch?v=QwS1r1mc888)
 
