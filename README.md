@@ -13,7 +13,10 @@ Also, as you book calendly with your mentor, you are supposed to mention the top
 
 ## Module Overview
 
-In this module, first you will go through the basic concepts of Python programming language. Then, you will understand the concepts of Statistics and try to apply Python programming skills on solving statistical analysis. The module has been designed with a completion time of 2 weeks.
+In this module, first you will go through the basic concepts of Python programming language. Then, you will understand the concepts of Statistics and try to apply Python programming skills on solving statistical analysis. The module has been designed to kick start a solid background in Python & Statistics.
+
+**Completion Time**
+2 weeks
 
 
 
